@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Sample Table" max_length="40" name="x_snc_atf_finance_sample_table" type="collection"/>
+</database>
